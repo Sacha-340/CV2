@@ -1,0 +1,43 @@
+h1 {
+    color : black;
+}
+
+h2 {
+    color : blue;
+}
+
+h3 {
+    color : darkslategrey;
+
+}
+
+body {
+    background-color : rgb(34, 187, 255);
+    font-family: Algerian;
+    text-align: center;
+
+
+}
+img {
+    border: white 5px solid;
+    box-shadow: 6px 6px 6px white;
+}
+nav {
+    border : 3px solid black;
+
+}
+section {
+    border : 5px solid black;
+    width : 50%;
+    float : right;
+    background-image : url(nuage_2.jpg) ;
+}
+@font-face {
+    font-family: '1942.ttf';
+    src: url(1942.ttf);
+}
+@media all and (max-device-width:480px)
+{
+
+}
+
